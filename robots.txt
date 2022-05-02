@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uit-no.github.io/rse/sitemap.xml
